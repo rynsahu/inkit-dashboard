@@ -1,2 +1,2 @@
-# inkit-admin
-Admin Panel for CMS
+# inkit-dashboard
+Dashobard for CMS
