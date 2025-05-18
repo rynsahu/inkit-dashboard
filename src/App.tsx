@@ -1,6 +1,12 @@
+import RichTextEditor from "./components/RichTextEditor"
+
 function App() {
   return (
-    <h1>Inkit Dashboard</h1>
+    <div className="app-container">
+      <h1>Inkit Dashboard</h1>
+
+      <RichTextEditor />
+    </div>
   )
 }
 
